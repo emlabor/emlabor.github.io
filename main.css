@@ -64,7 +64,8 @@ section .row img {
   border: 0px;
   color: #fbd1d5;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: transparent;
+  outline: none;
 }
 
 .btn.btn-primary:hover {
