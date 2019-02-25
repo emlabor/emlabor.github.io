@@ -23,12 +23,23 @@ header nav {
   justify-content: center;
 }
 
-header p {
+header a {
   padding: 0 20px;
   margin: 0;
 }
 
-#trigger:hover + #slider {
+.btn.btn-nav {
+  color: #333333;
+  outline: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-nav:hover {
+  color: #fbd1d5;
+  box-shadow: none;
+}
+
+#trigger:target ~ #slider {
   display: flex;
   visibility: visible;
 }
