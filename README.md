@@ -1,5 +1,5 @@
 # emlabor.github.io
-is this a real website?
+a not quite website
 ### tasks
 - [ ] animate menu bar clicks
 - [ ] create pages
