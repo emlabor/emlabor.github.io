@@ -78,7 +78,7 @@ header a {
   background-color: #ffffff;
 }
 
-.btn.btn-nav:hover
+.btn.btn-nav:hover,
 .btn.btn-nav:focus {
   color: #fbd1d5;
   box-shadow: none;
