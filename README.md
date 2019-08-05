@@ -1,6 +1,6 @@
 # emlabor.github.io
-a not quite website. adapted from Codecademy.
-### tasks
+Adapted from Codecademy.
+### Tasks
 - [ ] animate menu bar clicks
 - [ ] create pages
 - [ ] add page content
