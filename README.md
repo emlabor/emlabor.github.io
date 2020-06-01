@@ -1,7 +1,6 @@
 # emlabor.github.io
-Adapted from Codecademy.
+Personal site.
 ### Tasks
-- [ ] animate menu bar clicks
-- [ ] create pages
+- [x] animate menu bar clicks
+- [x] create pages
 - [ ] add page content
-- [ ] curate more llamas
