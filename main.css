@@ -53,7 +53,7 @@ header a {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url("telephones.jpg");
+  background-image: url("images/telephones.jpg");
   background-size: cover;
   color: #ffffff;
   height: 500px;
@@ -77,8 +77,17 @@ section .row img {
   width: 100%;
 }
 
-.col-md-6 {
-  margin: 0 0 30px;
+#projects a {
+  color: #333333;
+}
+
+#projects a:link {
+  text-decoration: none;
+}
+
+#projects a:focus,
+#projects a:hover {
+  color: #fbd1d5;
 }
 
 .col-sm-6 {
