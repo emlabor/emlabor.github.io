@@ -1,5 +1,5 @@
 body {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'JackInput Regular', monospace;
   font-weight: 300;
 }
 
@@ -22,16 +22,6 @@ header nav {
   display: flex;
   justify-content: center;
 }
-
-/*section.container {
-  visibility: hidden;
-  display: none;
-}
-
-section.container:target {
-  visibility: visible;
-  display: block;
-}*/
 
 header a {
   padding: 0 20px;
@@ -72,7 +62,7 @@ header a {
   color: #fbd1d5;
 }
 
-section .row img {
+.img-responsive {
   margin: 0 0 30px;
   width: 100%;
 }
@@ -90,8 +80,9 @@ section .row img {
   color: #fbd1d5;
 }
 
-.col-sm-6 {
-  padding-left: 100px;
+.col-md-6 {
+  padding-left: 20px;
+  padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 10px;
 }
