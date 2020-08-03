@@ -99,11 +99,6 @@ header a {
 
 .col-sm-10 h4 b {
   /*color: #588fd5;*/
-  color: #fbd1d5;
-}
-
-.col-sm-10 h4 b:hover,
-.col-sm-10 h4 b:focus {
   color: #588fd5;
 }
 
